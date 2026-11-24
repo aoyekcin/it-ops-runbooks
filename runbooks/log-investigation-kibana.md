@@ -4,7 +4,7 @@ A structured approach to go from "there are errors" to "this is the cause and th
 
 ## 1. Set the frame
 
-- **Time range:** start a little before the first alert and end after it — the moments before the errors often show the cause.
+- **Time range:** start a little before the first alert and end after it. The minutes before the errors often show the cause.
 - **Index / data view:** pick the service or application logs you need.
 - **Time zone:** check that Kibana's time zone matches the alert and ticket times.
 

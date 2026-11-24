@@ -31,7 +31,7 @@
 ## 4. Escalate
 
 - Network team: if the issue is in our equipment or configuration.
-- ISP: if the line is down — send site ID, address, contact person and opening hours.
+- ISP: if the line is down, send site ID, address, contact person and opening hours.
 - On-site technician: if hardware needs replacing.
 
 ## 5. Close

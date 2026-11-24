@@ -4,7 +4,7 @@ Short, factual and on a fixed rhythm. Avoid guessing at causes in early updates.
 
 ## 1. Initial notification
 
-> **[SEV<n>] <Short title> — Investigating**
+> **[SEV<n>] <Short title> | Investigating**
 >
 > **Impact:** <who is affected, e.g. "card payments failing for some merchants">
 > **Started:** <time, time zone>
@@ -14,7 +14,7 @@ Short, factual and on a fixed rhythm. Avoid guessing at causes in early updates.
 
 ## 2. Progress update
 
-> **[SEV<n>] <Short title> — Update <#>**
+> **[SEV<n>] <Short title> | Update <#>**
 >
 > **Current status:** <Investigating / Identified / Mitigating / Monitoring>
 > **What we know:** <one or two facts>
@@ -24,7 +24,7 @@ Short, factual and on a fixed rhythm. Avoid guessing at causes in early updates.
 
 ## 3. Mitigated / resolved
 
-> **[SEV<n>] <Short title> — Resolved**
+> **[SEV<n>] <Short title> | Resolved**
 >
 > **Resolved at:** <time, time zone> (duration: <hh:mm>)
 > **Summary:** <what happened, in one or two sentences>
@@ -39,7 +39,7 @@ Short, factual and on a fixed rhythm. Avoid guessing at causes in early updates.
 
 ## Rules
 
-- State facts, not assumptions. "We see errors from one provider" — not "the provider is down".
+- State facts, not assumptions. Say "we see errors from one provider", not "the provider is down".
 - Always give the time of the next update, and keep that promise even if there is no news.
 - Use one channel as the source of truth; link to it from everywhere else.
 - Times include the time zone.

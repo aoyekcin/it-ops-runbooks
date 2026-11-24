@@ -43,6 +43,6 @@ Use this checklist so the next team can start immediately:
 
 1. Confirm with data that the failure is on their side (e.g. errors only for one acquirer or provider).
 2. Open a ticket through the agreed channel and record the reference number.
-3. Send sample transaction IDs or request IDs, timestamps and error codes — never full card data.
+3. Send sample transaction IDs or request IDs, timestamps and error codes. Never send full card data.
 4. Agree on an update interval and follow up on it.
 5. Keep internal stakeholders informed of the external ticket status.

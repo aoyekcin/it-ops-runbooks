@@ -1,6 +1,6 @@
 # Incident Severity Matrix
 
-Severity is decided by **business impact**, not by how technically interesting the issue is. When in doubt, pick the higher severity — downgrading later is cheap.
+Severity is decided by **business impact**, not by how technically interesting the issue is. When in doubt, pick the higher severity. Downgrading later is cheap.
 
 | Severity | Definition | Examples | Response target | Update rhythm | Resolution target |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Severity is decided by **business impact**, not by how technically interesting t
 ## Quick decision questions
 
 1. Is money or a core customer journey (payment, checkout, login) blocked? → **SEV1 or SEV2**
-2. How many users, stores or merchants are affected — one, some, or most?
+2. How many users, stores or merchants are affected: one, some, or most?
 3. Is there a working workaround right now?
 4. Is the impact growing (error rate climbing, more stores calling)?
 5. Is there a regulatory, security or contractual dimension? → raise one level
